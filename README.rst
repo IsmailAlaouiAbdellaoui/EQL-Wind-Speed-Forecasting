@@ -1,6 +1,6 @@
 🌀 Symbolic regression for scientific discovery: an application to wind speed forecasting
 ========
-This project aims to perform symbolic regression to discover the governing equations of hourly wind speed for Danish cities. The original paper can be found at: 
+This project aims to perform symbolic regression to discover the governing equations of hourly wind speed for Danish cities. The original paper can be found at: https://arxiv.org/abs/2102.10570
 
 📊 Results
 -----
@@ -64,7 +64,7 @@ If you decide to cite our project in your paper or use our data, please use the 
     @article{abdellaoui2021symbolic,
   title={Symbolic regression for scientific discovery: an application to wind speed forecasting},
   author={Abdellaoui, Ismail Alaoui and Mehrkanoon, Siamak},
-  journal={arXiv preprint arXiv:},
+  journal={arXiv preprint arXiv:2102.10570},
   year={2021}
     }
     
