@@ -48,11 +48,10 @@ For the second phase only, please run:
 📂 Data
 -----
 
-You can find the link to download the data in the paper. For more info about the data, please write to both of the following addresses:
+You can find the link to download the data in the paper. For more info about the data, please write to the following address:
 
 i.alaouiabdellaoui@student.maastrichtuniversity.nl
 
-siamak.mehrkanoon@maastrichtuniversity.nl
 
 🔗 Citation
 -----
